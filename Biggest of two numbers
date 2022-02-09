@@ -1,0 +1,22 @@
+# biggest-of-two-numbers
+num1=int(input("enter first number:"))
+num2=int(input("enter second number:"))
+if num1 >= num2:
+   if num1 == num2:
+       print("Both numbers are equal")
+    else:
+      print("First number is biggest number than second number")
+     else:
+        print("Second  number is biggest number than  first number ")
+
+
+Output:
+Enter  first  number:8
+Enter second number:9
+second number is biggest  than first  number 
+
+              
+
+
+
+             
